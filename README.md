@@ -2,7 +2,7 @@ Hello, viewers This is Debanshu Saha and in this repository , I Had uploaded the
 <br>
 Data source link : https://github.com/CSSEGISandData/COVID-19
 <br>
-I had analyzed trends and patterns related to the Covid-19
+I had analysed trends and patterns related to the Covid-19
 pandemic,visualized the
 daily cases, deaths, and recoveries over time.
 Compare the statistics across different countries
