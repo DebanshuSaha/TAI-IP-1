@@ -2,11 +2,9 @@ Hello, viewers This is Debanshu Saha and in this repository , I Had uploaded the
 <br>
 Data source link : https://github.com/CSSEGISandData/COVID-19
 <br>
-I had analysed trends and patterns related to the Covid-19
-pandemic,visualized the
-daily cases, deaths, and recoveries over time.
+I had analysed trends and patterns related to the Covid-19 pandemic,visualized the daily cases, deaths, and recoveries over time.
 Compare the statistics across different countries
 or regions using POWER BI and created a global and an india specific dashboard.
 <br>
-Hopw you will like it
+Hope you will like it . 
  
